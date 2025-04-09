@@ -1,41 +1,22 @@
-# 👋 Hi, I'm Hossam Abdou 
-### Flutter Developer | Mobile App Engineer
+# Hi, I'm Hossam Abdou 👋
 
-🚀 Building beautiful cross-platform apps with Flutter | 💡 Passionate about clean architecture and state management
+Flutter Developer specializing in building responsive cross-platform applications. Experienced in state management (Cubit, Provider), REST API integration, and Clean Architecture.
 
-## 🔧 Technologies & Skills
-**Frontend**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+## Skills
+- **Languages**: Dart, JSON Parsing
+- **Frameworks**: Flutter, Firebase
+- **State Management**: Cubit, Provider, Bloc
+- **Tools**: Dio, ScreenUtil, Postman, GitHub
 
-**State Management**  
-![Cubit](https://img.shields.io/badge/Cubit-8A2BE2?style=flat)
-![Bloc](https://img.shields.io/badge/Bloc-8A2BE2?style=flat)
-![Provider](https://img.shields.io/badge/Provider-8A2BE2?style=flat)
+## Projects
+- **E-cloud**: [Link](https://github.com/your-repo-link)  
+  A clean e-commerce app with categories, subcategories, and wishlist functionality.
+- **Movie Night**: [Link](https://github.com/your-repo-link)  
+  A movie app with curated recommendations and personalized watchlists.
+- **BookE**: [Link](https://github.com/your-repo-link)  
+  A bookstore app with genre exploration and secure caching.
 
-**Backend Integration**  
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat)
-
-## 🛠 Featured Projects
-
-### E-cloud E-commerce App
-![Flutter](https://img.shields.io/badge/Flutter-3.19-blue)
-![Dart](https://img.shields.io/badge/Dart-3.3-blue)
-
-A complete e-commerce solution with:
-- Product catalog with categories/subcategories
-- Add-to-cart functionality
-- Wishlist system
-- MVVM architecture with Cubit
-
-[![View on GitHub](https://img.shields.io/badge/View_Code-GitHub-black?style=flat&logo=github)](https://github.com/yourusername/e-cloud)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossam.abdou.almasry@gmail.com)
+## Contact
+- Email: hossam.abdou.almasry@gmail.com  
+- LinkedIn: [Profile](https://www.linkedin.com/in/hossam-abdou)  
+- Behance: [Portfolio](https://www.behance.net/hossam-abdou)
