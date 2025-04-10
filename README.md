@@ -7,22 +7,12 @@ Flutter Developer | Building responsive cross-platform apps with Flutter
 
 ## 🛠 **Tech Stack**
 
-### **Programming Languages**
-- Dart
-- JSON Parsing
+### **Technologies I Use**
+Here are the tools and frameworks I work with:
 
-### **Frameworks & Libraries**
-- Flutter
-- Firebase
-- Dio
-- ScreenUtil
-- Cubit (State Management)
-- MVVM Architecture
-
-### **Tools**
-- GitHub
-- Postman
-- Android Studio / VS Code
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+|:---:|:---:|:---:|:---:|:---:|
+| **Flutter** | **Firebase** | **Postman** | **Dart** | **Figma** |
 
 ---
 
